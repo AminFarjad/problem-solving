@@ -1,0 +1,11 @@
+
+Ecentricity=0.774597
+length of latus rectum=1.697056 units
+Major axis is along x axis
+Coordinates of major axis(2.121320,0),(-2.121320,0)
+Coordinates of minor axis(0,1.341641),(0,-1.341641)
+Cordinates of focii(1.643168,0),(-1.643168,0)
+Center of circle is C(-1.500000,-2.500000)
+Radius of circle is 0.707107 unitssq0.00	0.00	0.00	
+0.00	0.00	0.00	
+0.00	0.00	0.00	
