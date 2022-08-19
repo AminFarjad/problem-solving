@@ -1,1 +1,1 @@
-First ever projec, created in C language.
+First ever project, created in C language.
