@@ -1,2 +1,1 @@
-new to programming and github, sorry for the mistakes.
-Any changes are much appreaciated
+First ever projec, created in C language.
